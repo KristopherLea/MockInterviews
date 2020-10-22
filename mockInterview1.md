@@ -41,3 +41,7 @@ What are some differences between Junit4 and Junit5?
    JUnit4 has no integration support for third party plugins and IDE's.
    JUnit5 has a dedicated sub-project for this purpose-JUnit Platform. It defines the 
    TestEngine API for developing a testing framework that runs on the platform.
+   
+   First understand what the problem is asking, ask any questions that pertain to the question that will help you figure how to solve it.
+   Make sure to comment out and write down how you are going to approach this problem and solve it.
+   
